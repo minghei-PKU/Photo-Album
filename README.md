@@ -1,2 +1,3 @@
 # Photo-Album
 This project is written in MATLAB and aims to convert a set of images into a video with transition effects. The input is all .jpg image files from a specified directory, and the output is an .mp4 video. 
+The effects include Simple Fade (Alpha Dissolve),Checkerboard Fade,Left-to-Right Wipe,Top-to-Bottom Wipe,Random Block Dissolve,Vertical Venetian-Blind Wipe,RadialCenter-Out Reveal,Diagonal Wipe,Horizontal Wave Distort Fade,Pixelation Dissolve,Horizontal Venetian-Blind Wipe,Cross (Plus-Shape) Wipe,Dual-Diagonal Wipe,Expanding CentralRectangle Reveal,Diamond-Shape Reveal,Top-Down Gradient Overlay,Staggered Color-Channel Fade,Random Line (Row) Dissolve
